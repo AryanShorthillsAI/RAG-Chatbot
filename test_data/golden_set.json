@@ -1,0 +1,743 @@
+[
+  {
+    "query": "Who is the main protagonist in Inception?",
+    "ground_truth": "Dom Cobb, played by Leonardo DiCaprio."
+  },
+  {
+    "query": "What is the name of the city in which Batman operates?",
+    "ground_truth": "Gotham City."
+  },
+  {
+    "query": "Who is the antagonist in The Dark Knight?",
+    "ground_truth": "The Joker, played by Heath Ledger."
+  },
+  {
+    "query": "What does the spinning top symbolize in Inception?",
+    "ground_truth": "Cobb's totem, used to distinguish reality from dreams."
+  },
+  {
+    "query": "What is the name of the machine used in The Prestige for teleportation?",
+    "ground_truth": "Tesla's machine."
+  },
+  {
+    "query": "Who played Alfred in The Dark Knight Trilogy?",
+    "ground_truth": "Michael Caine."
+  },
+  {
+    "query": "What is the name of Cooper's daughter in Interstellar?",
+    "ground_truth": "Murph (Murphy Cooper)."
+  },
+  {
+    "query": "What is the term for time inversion in Tenet?",
+    "ground_truth": "Entropy reversal."
+  },
+  {
+    "query": "What book does Bruce Wayne leave for Blake in The Dark Knight Rises?",
+    "ground_truth": "A bag with coordinates to the Batcave."
+  },
+  {
+    "query": "What is the final word spoken in Inception?",
+    "ground_truth": "Nothing, the film ends with the spinning top scene."
+  },
+  {
+    "query": "Who is the villain in Batman Begins?",
+    "ground_truth": "Ra's al Ghul, played by Liam Neeson."
+  },
+  {
+    "query": "Which historical event is depicted in Dunkirk?",
+    "ground_truth": "The Dunkirk evacuation of World War II."
+  },
+  {
+    "query": "What is the secret behind Angier’s teleportation trick in The Prestige?",
+    "ground_truth": "He clones himself and kills the duplicate."
+  },
+  {
+    "query": "What role does Joseph Gordon-Levitt play in Inception?",
+    "ground_truth": "Arthur, Cobb’s associate and point man."
+  },
+  {
+    "query": "What is the name of the algorithm in Tenet?",
+    "ground_truth": "The Algorithm."
+  },
+  {
+    "query": "Who is the physicist that Cooper meets in Interstellar?",
+    "ground_truth": "Dr. Brand, played by Michael Caine."
+  },
+  {
+    "query": "What is the name of the hotel in Inception's zero-gravity fight scene?",
+    "ground_truth": "It's unnamed but part of Arthur's dream level."
+  },
+  {
+    "query": "Who sacrifices himself in Tenet to save the world?",
+    "ground_truth": "Neil, played by Robert Pattinson."
+  },
+  {
+    "query": "What is the function of Borden’s twin in The Prestige?",
+    "ground_truth": "They live as one person to execute their magic trick."
+  },
+  {
+    "query": "Who is the war photographer in Dunkirk?",
+    "ground_truth": "There is no war photographer; the film follows soldiers and pilots."
+  },
+  { "query": "What is Batman’s real name?",
+   "ground_truth": "Bruce Wayne." },
+  {
+    "query": "What is the first scene of Memento?",
+    "ground_truth": "A Polaroid photograph fading instead of developing."
+  },
+  {
+    "query": "How does Cooper communicate with Murph from the black hole?",
+    "ground_truth": "Through gravity using the tesseract in the bookshelf."
+  },
+  {
+    "query": "Who played Bane in The Dark Knight Rises?",
+    "ground_truth": "Tom Hardy."
+  },
+  {
+    "query": "What does 'Tenet' mean in the movie Tenet?",
+    "ground_truth": "A palindrome that signifies the film’s time-inversion concept."
+  },
+  {
+    "query": "What is the fate of Mal in Inception?",
+    "ground_truth": "She commits suicide believing she is in a dream."
+  },
+  {
+    "query": "What does Angier yell before falling in The Prestige?",
+    "ground_truth": "'Are you watching closely?'"
+  },
+  {
+    "query": "Who is the mole in The Dark Knight Rises?",
+    "ground_truth": "Miranda Tate (Talia al Ghul)."
+  },
+  {
+    "query": "What is the name of the company that Saito owns in Inception?",
+    "ground_truth": "Proclus Global."
+  },
+  {
+    "query": "Which movie features the chant 'Deshi Basara'?",
+    "ground_truth": "The Dark Knight Rises."
+  },
+  {
+    "query": "Who betrays Batman in The Dark Knight?",
+    "ground_truth": "Harvey Dent becomes Two-Face."
+  },
+  {
+    "query": "What is the call sign of Tom Hardy's pilot character in Dunkirk?",
+    "ground_truth": "Farrier."
+  },
+  {
+    "query": "What object is used to prove identity in The Prestige?",
+    "ground_truth": "A diary."
+  },
+  {
+    "query": "What is the final scene of The Dark Knight?",
+    "ground_truth": "Bruce Wayne faking his death and sitting in a café with Selina Kyle."
+  },
+  {
+    "query": "Who is the antagonist in Tenet?",
+    "ground_truth": "Andrei Sator, played by Kenneth Branagh."
+  },
+  {
+    "query": "What is Batman’s rule in The Dark Knight?",
+    "ground_truth": "He does not kill."
+  },
+  {
+    "query": "Which actor plays Alfred in Batman Begins?",
+    "ground_truth": "Michael Caine."
+  },
+  {
+    "query": "What is the name of the space station in Interstellar?",
+    "ground_truth": "Cooper Station."
+  },
+  {
+    "query": "Who helps Cobb assemble his dream heist team in Inception?",
+    "ground_truth": "Arthur and Eames."
+  },
+  {
+    "query": "Who trained Bruce Wayne in Batman Begins?",
+    "ground_truth": "Ra's al Ghul and the League of Shadows."
+  },
+  {
+    "query": "What does the Joker burn in The Dark Knight?",
+    "ground_truth": "A massive stack of money."
+  },
+  {
+    "query": "What happens to the protagonist at the end of Tenet?",
+    "ground_truth": "He realizes he was the one who started Tenet in the future."
+  },
+  {
+    "query": "How does Borden disguise himself in The Prestige?",
+    "ground_truth": "He lives as twins under one identity."
+  },
+  {
+    "query": "What does Cooper find inside the black hole?",
+    "ground_truth": "A tesseract connected to Murph’s bedroom."
+  },
+  {
+    "query": "What symbol represents Batman?",
+    "ground_truth": "A bat emblem."
+  },
+  {
+    "query": "How does Batman escape Bane’s prison?",
+    "ground_truth": "By making the leap of faith without a rope."
+  },
+  {
+    "query": "What is the name of the character played by Robert Pattinson in Tenet?",
+    "ground_truth": "Neil."
+  },
+  {
+    "query": "How does Memento tell its story?",
+    "ground_truth": "In a non-linear format with alternating black-and-white and color scenes."
+  },
+  { "query": "Who is Cobb’s wife in Inception?", "ground_truth": "Mal Cobb." },
+  {
+    "query": "What happens to Cillian Murphy's character in Inception?",
+    "ground_truth": "He is implanted with the idea to dissolve his father’s company."
+  },
+  {
+    "query": "What is the name of the dream-sharing device in Inception?",
+    "ground_truth": "PASIV (Portable Automated Somnacin IntraVenous) device"
+  },
+  {
+    "query": "Who is the masked villain in The Dark Knight Rises?",
+    "ground_truth": "Bane"
+  },
+  {
+    "query": "What scientific theory does Interstellar heavily rely on?",
+    "ground_truth": "Theory of General Relativity"
+  },
+  { "query": "Who directed Memento?", "ground_truth": "Christopher Nolan" },
+  {
+    "query": "What is the real name of the Protagonist in Tenet?",
+    "ground_truth": "His real name is never revealed"
+  },
+  {
+    "query": "What does the word 'tenet' signify in Tenet?",
+    "ground_truth": "It represents a palindrome and a key to the secret organization"
+  },
+  {
+    "query": "Who plays Alfred Pennyworth in The Dark Knight Trilogy?",
+    "ground_truth": "Michael Caine"
+  },
+  {
+    "query": "What is the name of the magical illusion central to The Prestige?",
+    "ground_truth": "The Transported Man"
+  },
+  {
+    "query": "What is the secret behind Angier’s teleportation in The Prestige?",
+    "ground_truth": "He uses Tesla’s cloning machine"
+  },
+  {
+    "query": "Who is the primary antagonist in Batman Begins?",
+    "ground_truth": "Ra's al Ghul"
+  },
+  {
+    "query": "What is the name of the artificial intelligence in Interstellar?",
+    "ground_truth": "TARS"
+  },
+  {
+    "query": "What is the opening scene of The Dark Knight?",
+    "ground_truth": "A bank robbery orchestrated by the Joker"
+  },
+  {
+    "query": "What object does Cobb use as his totem in Inception?",
+    "ground_truth": "A spinning top"
+  },
+  {
+    "query": "How does the Joker disguise his identity in the opening scene?",
+    "ground_truth": "He wears a clown mask"
+  },
+  {
+    "query": "What is the name of Cooper’s daughter in Interstellar?",
+    "ground_truth": "Murph"
+  },
+  {
+    "query": "Who plays the role of Cobb in Inception?",
+    "ground_truth": "Leonardo DiCaprio"
+  },
+  {
+    "query": "Which book does Cooper leave for Murph in Interstellar?",
+    "ground_truth": "'The Murph Book' - a collection of notes from her childhood"
+  },
+  {
+    "query": "What are the five layers of dreams in Inception?",
+    "ground_truth": "Reality, 1st Dream (City), 2nd Dream (Hotel), 3rd Dream (Snow Fortress), Limbo"
+  },
+  {
+    "query": "Who composed the music for Interstellar?",
+    "ground_truth": "Hans Zimmer"
+  },
+  {
+    "query": "What does Bane say before breaking Batman’s back?",
+    "ground_truth": "'You merely adopted the dark. I was born in it, molded by it.'"
+  },
+  {
+    "query": "What are the two competing magic tricks in The Prestige?",
+    "ground_truth": "'The Transported Man' by Borden and 'The New Transported Man' by Angier"
+  },
+  {
+    "query": "Which poem is recited multiple times in Interstellar?",
+    "ground_truth": "'Do not go gentle into that good night' by Dylan Thomas"
+  },
+  {
+    "query": "What was the Joker’s famous catchphrase in The Dark Knight?",
+    "ground_truth": "'Why so serious?'"
+  },
+  {
+    "query": "What symbol does Batman leave at crime scenes in The Dark Knight?",
+    "ground_truth": "A burning Bat-symbol"
+  },
+  {
+    "query": "What is the main conflict in Tenet?",
+    "ground_truth": "A time-inverting war between the future and the present"
+  },
+  {
+    "query": "How does Cobb confirm he is in reality?",
+    "ground_truth": "By checking if his spinning top falls over"
+  },
+  {
+    "query": "Who built the time-inverting machine in Tenet?",
+    "ground_truth": "Sator, with instructions from the future"
+  },
+  {
+    "query": "What happens to Angier at the end of The Prestige?",
+    "ground_truth": "His cloned versions drown in tanks each time he performs the trick"
+  },
+  {
+    "query": "Who is the scientist that helps Batman in The Dark Knight trilogy?",
+    "ground_truth": "Lucius Fox"
+  },
+  {
+    "query": "What is the famous hallway fight scene in Inception known for?",
+    "ground_truth": "The gravity-defying fight in the hotel corridor"
+  },
+  {
+    "query": "What does Batman say to the Joker at the end of The Dark Knight?",
+    "ground_truth": "'You’ll be in a padded cell forever.'"
+  },
+  {
+    "query": "What planet does the crew visit first in Interstellar?",
+    "ground_truth": "Miller’s planet"
+  },
+  {
+    "query": "What shape does the rotating space station in Interstellar take?",
+    "ground_truth": "A tesseract"
+  },
+  {
+    "query": "What is the significance of the 'Inverted Bullet' in Tenet?",
+    "ground_truth": "It proves that objects can move backward in time"
+  },
+  {
+    "query": "Who plays John Blake in The Dark Knight Rises?",
+    "ground_truth": "Joseph Gordon-Levitt"
+  },
+  {
+    "query": "What is the final word spoken in Inception?",
+    "ground_truth": "'Daddy!'"
+  },
+  {
+    "query": "What does Alfred dream of seeing Bruce do in The Dark Knight Rises?",
+    "ground_truth": "Sitting in a café in Florence, happy and retired"
+  },
+  {
+    "query": "What does Bane use to control Gotham?",
+    "ground_truth": "A nuclear bomb"
+  },
+  {
+    "query": "Who is revealed to be the true villain in The Dark Knight Rises?",
+    "ground_truth": "Talia al Ghul"
+  },
+  {
+    "query": "What is the significance of the 'Oppenheimer moment' in Tenet?",
+    "ground_truth": "It references the creation of a weapon that could end the world"
+  },
+  {
+    "query": "What is the main theme of Dunkirk?",
+    "ground_truth": "Survival during the Dunkirk evacuation"
+  },
+  {
+    "query": "How many time loops does the Protagonist experience in Tenet?",
+    "ground_truth": "At least three overlapping loops"
+  },
+  { "query": "Who plays Mr. Eames in Inception?", "ground_truth": "Tom Hardy" },
+  {
+    "query": "What does the word 'Inception' mean in the context of the movie?",
+    "ground_truth": "Planting an idea into someone’s subconscious"
+  },
+  {
+    "query": "What are the different aliases used by Batman?",
+    "ground_truth": "The Dark Knight, The Caped Crusader, The World's Greatest Detective"
+  },
+  {
+    "query": "What does 'Memento Mori' mean in Memento?",
+    "ground_truth": "'Remember you must die' – a reminder of Leonard’s condition"
+  },
+  {
+    "query": "What is the significance of the Prestige in magic?",
+    "ground_truth": "It is the final part of a magic trick, the grand reveal"
+  },
+  {
+    "query": "What is the name of the organization in Tenet?",
+    "ground_truth": "Tenet"
+  },
+  {
+    "query": "Who betrays Cobb in Inception?",
+    "ground_truth": "Mal, his wife, who planted the idea that reality was a dream"
+  },
+  {
+    "query": "What does the term 'Memento Mori' mean in Memento?",
+    "ground_truth": "'Remember that you must die'"
+  },
+  {
+    "query": "What book does Cooper use to communicate with Murph in Interstellar?",
+    "ground_truth": "'The Murph Book'—a collection of her childhood notes"
+  },
+  {
+    "query": "What is Bane’s real name in The Dark Knight Rises?",
+    "ground_truth": "Unknown, but he was raised in a prison and protected Talia al Ghul"
+  },
+  {
+    "query": "Who is the first to be killed in The Dark Knight?",
+    "ground_truth": "One of the Joker's henchmen during the bank robbery scene"
+  },
+  {
+    "query": "What is the name of the detective in Memento?",
+    "ground_truth": "Teddy (John Edward Gammell)"
+  },
+  {
+    "query": "Who was the scientist that Batman relied on in the Dark Knight Trilogy?",
+    "ground_truth": "Lucius Fox"
+  },
+  {
+    "query": "What is the name of the magician who rivals Angier in The Prestige?",
+    "ground_truth": "Alfred Borden"
+  },
+  {
+    "query": "What is the significance of the Oppenheimer moment in Tenet?",
+    "ground_truth": "It refers to the creation of an apocalyptic weapon from the future"
+  },
+  {
+    "query": "What word does Mal use to test if Cobb is in reality?",
+    "ground_truth": "'Prove it.'"
+  },
+  {
+    "query": "Who does Batman fight in the climactic battle of The Dark Knight Rises?",
+    "ground_truth": "Bane"
+  },
+  {
+    "query": "What is the name of the black hole in Interstellar?",
+    "ground_truth": "Gargantua"
+  },
+  {
+    "query": "What phrase does the Joker say repeatedly in The Dark Knight?",
+    "ground_truth": "'Why so serious?'"
+  },
+  {
+    "query": "What shape is the spaceship in Interstellar?",
+    "ground_truth": "A circular Endurance station"
+  },
+  {
+    "query": "Who is Sator in Tenet?",
+    "ground_truth": "A Russian oligarch working with the future to destroy the world"
+  },
+  {
+    "query": "What trick did Angier use in The Prestige?",
+    "ground_truth": "A cloning device built by Nikola Tesla"
+  },
+  {
+    "query": "What is the theme of Dunkirk?",
+    "ground_truth": "Survival, heroism, and time manipulation"
+  },
+  {
+    "query": "What does Cooper see inside the tesseract in Interstellar?",
+    "ground_truth": "An infinite library connected to Murph’s room"
+  },
+  {
+    "query": "What was Cobb’s wife’s name in Inception?",
+    "ground_truth": "Mal"
+  },
+  {
+    "query": "What city is Gotham modeled after in The Dark Knight?",
+    "ground_truth": "Chicago"
+  },
+  {
+    "query": "Who said 'You either die a hero, or you live long enough to see yourself become the villain'?",
+    "ground_truth": "Harvey Dent"
+  },
+  {
+    "query": "Who played the Joker in The Dark Knight?",
+    "ground_truth": "Heath Ledger"
+  },
+  {
+    "query": "What does the word 'tenet' mean in the movie Tenet?",
+    "ground_truth": "It is a palindrome and the name of the secret organization"
+  },
+  {
+    "query": "What does Batman say before disappearing in The Dark Knight?",
+    "ground_truth": "'Sometimes, the truth isn’t good enough.'"
+  },
+  {
+    "query": "What is the name of the drug used in dream-sharing in Inception?",
+    "ground_truth": "Somnacin"
+  },
+  {
+    "query": "Who is the first person to die in The Prestige?",
+    "ground_truth": "Julia, Angier’s wife, during a water tank escape trick"
+  },
+  {
+    "query": "Who is revealed to be Ra’s al Ghul’s child in The Dark Knight Rises?",
+    "ground_truth": "Talia al Ghul"
+  },
+  {
+    "query": "What role does Michael Caine play in The Prestige?",
+    "ground_truth": "Cutter, the engineer who designs magic tricks"
+  },
+  {
+    "query": "What is the final word spoken in Inception?",
+    "ground_truth": "'Daddy!'"
+  },
+  {
+    "query": "What happens when Cooper enters the black hole?",
+    "ground_truth": "He arrives in a fifth-dimensional tesseract"
+  },
+  {
+    "query": "How does the Joker get his scars?",
+    "ground_truth": "His stories about them vary, suggesting he is lying"
+  },
+  {
+    "query": "Who is the protagonist in The Dark Knight Rises?",
+    "ground_truth": "Bruce Wayne / Batman"
+  },
+  {
+    "query": "What is the significance of 'The Murph Book' in Interstellar?",
+    "ground_truth": "It contains her father’s hidden messages from the tesseract"
+  },
+  {
+    "query": "Who kills Bane in The Dark Knight Rises?",
+    "ground_truth": "Selina Kyle (Catwoman)"
+  },
+  {
+    "query": "What is the final scene of The Dark Knight Rises?",
+    "ground_truth": "Alfred sees Bruce Wayne in a café in Florence"
+  },
+  {
+    "query": "What does the Joker burn in The Dark Knight?",
+    "ground_truth": "A mountain of money"
+  },
+  {
+    "query": "What is the name of the son of Sator in Tenet?",
+    "ground_truth": "Max"
+  },
+  {
+    "query": "Who plays the character Neil in Tenet?",
+    "ground_truth": "Robert Pattinson"
+  },
+  {
+    "query": "What is the meaning behind 'The Turn, The Pledge, and The Prestige'?",
+    "ground_truth": "The three parts of a magic trick"
+  },
+  {
+    "query": "What song plays at the end of Interstellar?",
+    "ground_truth": "'No Time for Caution' by Hans Zimmer"
+  },
+  {
+    "query": "Who betrays Bruce Wayne in The Dark Knight Rises?",
+    "ground_truth": "Miranda Tate (Talia al Ghul)"
+  },
+  {
+    "query": "How does Batman fake his death in The Dark Knight Rises?",
+    "ground_truth": "By using the autopilot on the Bat"
+  },
+  {
+    "query": "What is the significance of the name 'Dom' in Inception?",
+    "ground_truth": "It means 'house' in Latin and reflects Cobb’s longing for home."
+  },
+  {
+    "query": "What is the real name of the Protagonist in Tenet?",
+    "ground_truth": "It is never revealed."
+  },
+  {
+    "query": "What number appears on the hotel door in Memento?",
+    "ground_truth": "304"
+  },
+  {
+    "query": "What shape does the wormhole take in Interstellar?",
+    "ground_truth": "A sphere"
+  },
+  {
+    "query": "What does the Joker use to create chaos in the hospital in The Dark Knight?",
+    "ground_truth": "Explosives hidden under his nurse’s outfit"
+  },
+  {
+    "query": "What is the occupation of Robert Angier in The Prestige?",
+    "ground_truth": "A magician"
+  },
+  {
+    "query": "What song plays when Cobb wakes up on the plane in Inception?",
+    "ground_truth": "'Non, Je Ne Regrette Rien' by Édith Piaf"
+  },
+  {
+    "query": "What object does Bruce Wayne use to signal Batman in Batman Begins?",
+    "ground_truth": "A high-frequency sonar device"
+  },
+  {
+    "query": "What is the time dilation ratio on Miller’s planet in Interstellar?",
+    "ground_truth": "1 hour on the planet equals 7 years on Earth."
+  },
+  {
+    "query": "What kind of mask does Bane wear in The Dark Knight Rises?",
+    "ground_truth": "A pain-relieving mask that administers anesthetic gas"
+  },
+  {
+    "query": "How does Leonard in Memento keep track of his memories?",
+    "ground_truth": "By tattooing important facts onto his body"
+  },
+  {
+    "query": "Who is Alfred Borden’s secret twin brother in The Prestige?",
+    "ground_truth": "Freddy"
+  },
+  {
+    "query": "What does Sator use to communicate with the future in Tenet?",
+    "ground_truth": "A turnstile that allows time inversion"
+  },
+  {
+    "query": "How does Batman escape the police in The Dark Knight?",
+    "ground_truth": "Using his Batpod to maneuver through tight spaces"
+  },
+  {
+    "query": "What do the initials TARS stand for in Interstellar?",
+    "ground_truth": "It is never explicitly mentioned in the film."
+  },
+  {
+    "query": "What is the nickname of the briefcase machine in Inception?",
+    "ground_truth": "The PASIV device"
+  },
+  {
+    "query": "Which real-life physicist advised Christopher Nolan on Interstellar?",
+    "ground_truth": "Kip Thorne"
+  },
+  {
+    "query": "What is the name of Bruce Wayne’s childhood friend in Batman Begins?",
+    "ground_truth": "Rachel Dawes"
+  },
+  {
+    "query": "What does the Joker use to kill Gambol in The Dark Knight?",
+    "ground_truth": "A knife"
+  },
+  {
+    "query": "How does Angier perform 'The Transported Man' trick in The Prestige?",
+    "ground_truth": "By using a cloning machine invented by Nikola Tesla"
+  },
+  {
+    "query": "What phrase is written on the card in Memento?",
+    "ground_truth": "'Don’t believe his lies.'"
+  },
+  {
+    "query": "What object does Sator plan to retrieve to complete the Algorithm in Tenet?",
+    "ground_truth": "A plutonium-241 capsule"
+  },
+  {
+    "query": "How does Cooper confirm his messages were received in Interstellar?",
+    "ground_truth": "Murph deciphers the watch’s second-hand ticks"
+  },
+  {
+    "query": "What phrase does Alfred say to Bruce before he leaves Gotham in The Dark Knight Rises?",
+    "ground_truth": "'I never wanted you to come back.'"
+  },
+  {
+    "query": "How many people know about Borden’s twin in The Prestige?",
+    "ground_truth": "Only Borden and his twin"
+  },
+  {
+    "query": "What does the Joker use to escape from the police station in The Dark Knight?",
+    "ground_truth": "A bomb planted inside a henchman"
+  },
+  {
+    "query": "What happens to Sator at the end of Tenet?",
+    "ground_truth": "He is killed by Kat on their yacht."
+  },
+  {
+    "query": "What is the final shot of Inception?",
+    "ground_truth": "A spinning top that cuts to black before revealing if it falls."
+  },
+  {
+    "query": "Who plays the character Mr. Eames in Inception?",
+    "ground_truth": "Tom Hardy"
+  },
+  {
+    "query": "How does Bruce Wayne’s back get fixed in The Dark Knight Rises?",
+    "ground_truth": "A prisoner pushes his vertebrae back into place."
+  },
+  {
+    "query": "What is the safe word for the dreamers in Inception?",
+    "ground_truth": "'Wake me up!'"
+  },
+  {
+    "query": "Who pilots the Endurance spacecraft in Interstellar?",
+    "ground_truth": "Doyle and later Cooper"
+  },
+  {
+    "query": "What does Cobb use to determine if he is in reality or a dream?",
+    "ground_truth": "A spinning top"
+  },
+  {
+    "query": "What is Batman’s motorcycle called?",
+    "ground_truth": "The Batpod"
+  },
+  {
+    "query": "Who is the secret antagonist in The Dark Knight Rises?",
+    "ground_truth": "Talia al Ghul"
+  },
+  {
+    "query": "What does 'Dunkirk spirit' refer to in Dunkirk?",
+    "ground_truth": "The resilience and bravery of civilians and soldiers"
+  },
+  {
+    "query": "How does The Prestige end?",
+    "ground_truth": "Angier is revealed to be cloning himself and drowning each copy."
+  },
+  {
+    "query": "What does the Joker do with the hospital in The Dark Knight?",
+    "ground_truth": "He blows it up."
+  },
+  {
+    "query": "What is Cooper’s final destination in Interstellar?",
+    "ground_truth": "He sets off to find Brand on the new planet."
+  },
+  {
+    "query": "Who is the protagonist in Memento?",
+    "ground_truth": "Leonard Shelby"
+  },
+  {
+    "query": "What is the military strategy used in Dunkirk?",
+    "ground_truth": "Operation Dynamo"
+  },
+  {
+    "query": "Who sends the Protagonist back in time in Tenet?",
+    "ground_truth": "The future version of himself"
+  },
+  {
+    "query": "What does the Joker burn in The Dark Knight?",
+    "ground_truth": "A massive pile of money"
+  },
+  {
+    "query": "How does Batman survive the nuclear blast in The Dark Knight Rises?",
+    "ground_truth": "He uses the Bat’s autopilot feature."
+  },
+  {
+    "query": "What causes the dreams to collapse in Inception?",
+    "ground_truth": "Instability when dreamers realize they are dreaming"
+  },
+  {
+    "query": "How is Borden executed in The Prestige?",
+    "ground_truth": "He is hanged."
+  },
+  {
+    "query": "What is the defining principle of Tenet?",
+    "ground_truth": "Temporal inversion"
+  },
+  {
+    "query": "What does Alfred see at the end of The Dark Knight Rises?",
+    "ground_truth": "Bruce Wayne alive in a café"
+  }
+]

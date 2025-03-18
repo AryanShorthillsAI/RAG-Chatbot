@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+pymupdf
+tiktoken
+# openai
+google-generativeai
+chromadb
+streamlit
+
