@@ -18,7 +18,10 @@ This project is a **Retrieval-Augmented Generation (RAG) system** designed to qu
 
 ## 2. System Architecture  
 
-### 2.1 High-Level Design  
+### 2.1 Project Structure
+![Architecture image]([/data_sample/Project_structue.png](https://github.com/AryanShorthillsAI/RAG-Chatbot/blob/main/data_sample/Project_structure.png))
+
+### 2.2 High-Level Design  
 The system consists of three main components:  
 
 #### **Data Processing**  
@@ -35,7 +38,7 @@ The system consists of three main components:
 - **API Backend** (`backend/main.py`) - Provides a FastAPI backend for querying.  
 - **Frontend Interface** (`frontend/app.py`) - Streamlit-based UI for querying and viewing logs.  
 
-### 2.2 Technology Stack  
+### 2.3 Technology Stack  
 
 | Component            | Technology               |  
 |----------------------|-------------------------|  
