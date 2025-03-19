@@ -184,9 +184,6 @@ Saving to: scripts/Inception_2010.pdf
 
 ```uvicorn backend.main:app --reload```
 
-**Step 2: Start Backend**
-
-```uvicorn backend.main:app --reload```
 
 **Step 3: Start Frontend**
 
